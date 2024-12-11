@@ -4,4 +4,4 @@
 
 $lank = ['松', '竹','梅'];
 
-echo $lank [2];
+echo $lank[2];
